@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio_react/static/css/main.f855e6bc.css",
+    "main.js": "/Portfolio_react/static/js/main.b06fbeb2.js",
+    "static/js/453.ed3810f9.chunk.js": "/Portfolio_react/static/js/453.ed3810f9.chunk.js",
+    "static/media/profile.jpeg": "/Portfolio_react/static/media/profile.2a1c22cd63832ce184c6.jpeg",
+    "static/media/Hackathon.jpg": "/Portfolio_react/static/media/Hackathon.75a9d635f413c652586f.jpg",
+    "static/media/Infosys.jpg": "/Portfolio_react/static/media/Infosys.3fecb9ddd5512aba6eec.jpg",
+    "static/media/nptel_c.jpeg": "/Portfolio_react/static/media/nptel_c.531fec1945d741ac69cd.jpeg",
+    "static/media/cisco_py.jpeg": "/Portfolio_react/static/media/cisco_py.0d1679dfd58132dbb50b.jpeg",
+    "index.html": "/Portfolio_react/index.html",
+    "main.f855e6bc.css.map": "/Portfolio_react/static/css/main.f855e6bc.css.map",
+    "main.b06fbeb2.js.map": "/Portfolio_react/static/js/main.b06fbeb2.js.map",
+    "453.ed3810f9.chunk.js.map": "/Portfolio_react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b06fbeb2.js"
+  ]
+}
