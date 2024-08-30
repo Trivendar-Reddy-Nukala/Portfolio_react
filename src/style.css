@@ -1,0 +1,8 @@
+/* styles.css */
+.navbar-toggler {
+    background-color: #4CAF50; /* Change toggle button background */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=UTF8,%3Csvg viewBox='0 0 16 16' fill='%23FFFFFF' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M1.5 3.75a.75.75 0 010-1.5h13a.75.75 0 010 1.5h-13zm0 5.25a.75.75 0 010-1.5h13a.75.75 0 010 1.5h-13zm0 5.25a.75.75 0 010-1.5h13a.75.75 0 010 1.5h-13z'/%3E%3C/svg%3E");
+}
