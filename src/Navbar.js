@@ -1,8 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import Home from './Home.js';
 function Navbar() {
     return (
+        <>
+        <Home/>
         <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
             <div className="container-fluid">
                 <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,6 +37,7 @@ function Navbar() {
                 </div>
             </div>
         </nav>
+        </>
     );
 }
 
